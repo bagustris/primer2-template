@@ -1,0 +1,10 @@
+remote_theme: bagustris/primer2-theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+title: My Site
+description: A site built with primer2-theme
+
+exclude:
+  - README.md
