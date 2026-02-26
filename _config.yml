@@ -8,3 +8,6 @@ description: A site built with primer2-theme
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
